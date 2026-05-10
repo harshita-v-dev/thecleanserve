@@ -1469,10 +1469,10 @@ display: block;
 padding: 25px 0;
 }
 .main-menu__logo img {
-  height: 45px !important;
+  height: 45px;
 }
 .footer-widget__about-logo img{
-  height: 45px !important;
+  height: 45px;
 }
 
 .main-menu__main-menu-box {
